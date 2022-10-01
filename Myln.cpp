@@ -1,4 +1,3 @@
-//this code outputs the value of ln(i)
 #include<iostream>
 #include<cmath>
 #include<fstream>
