@@ -1,3 +1,6 @@
+//this code write time and hight in a data.dat file
+//this data can be used to plot hight vs time graph
+
 #include<iostream>
 #include<fstream>
 #include<cmath>
